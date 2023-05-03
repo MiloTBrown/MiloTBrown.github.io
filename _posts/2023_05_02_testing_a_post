@@ -1,13 +1,13 @@
 ---
 date: 2019-05-16T23:48:05.000Z
 layout: post
-title: Welcome to the desert of the real
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+title: I am testing a post
+subtitle: 'This is a test so I can understand how to post.'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  https://github.com/MiloTBrown/milotbrown.github.io/blob/master/assets/img/Screen%20Shot%202023-03-02%20at%209.59.44%20AM.png
 optimized_image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
 category: blog
