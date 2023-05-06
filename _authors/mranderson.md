@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: https://res.cloudinary.com/drdsw7wbb/image/upload/v1683415297/Profile_Pic_nklqlg.png
-name: Milo Brown
+name: milo_brown
 display_name: Milo Brown
 position: UCSB Physics Undergraduate
 bio: Insert Bio
