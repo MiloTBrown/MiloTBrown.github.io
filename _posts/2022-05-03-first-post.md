@@ -1,5 +1,5 @@
 ---
-date: 2010-09-10 12:26:40
+date: 2023-04-22 17:00:00
 layout: post
 title: UCSB EEMB Research Symposium 2023
 subtitle: Relating Hyperspectral Data to Physiological Drought Response
