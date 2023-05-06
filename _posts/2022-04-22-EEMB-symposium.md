@@ -14,7 +14,7 @@ tags:
   - plant physiology
 author: Milo Brown
 ---
-The UCSB EEMB research symposium showcases undergraduate research in ecology, evolution, and marine biology conducted at UC Santa Barbara. The event occured on April 22 from 9AM to 5:30PM. 
+The UCSB EEMB research symposium showcases undergraduate research in ecology, evolution, and marine biology conducted at UC Santa Barbara. The event occured on April 22, 2023 from 9AM to 5:30PM.
 
 ## Abstract
 
