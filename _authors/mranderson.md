@@ -1,15 +1,13 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
-name: mranderson
-display_name: Mr. Anderson
-position: The One
-bio: Bulletproof hacker passionate about leather clothes.
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
+photo: https://res.cloudinary.com/drdsw7wbb/image/upload/v1683415297/Profile_Pic_nklqlg.png
+name: Milo Brown
+display_name: Milo Brown
+position: UCSB Physics Undergraduate
+bio: Insert Bio
+github_username: MiloTBrown
+instagram_username: gunpowder_milo
+linkedin_username: Milo Brown
 medium_username: medium_username
 ---
 
