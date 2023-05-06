@@ -4,15 +4,15 @@ layout: post
 title: Conformal Mapping in Origami
 subtitle: 'From Life to the stars'
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+  An academic research paper on applying conformal mapping to origami.
 image: >-
   https://drive.google.com/file/d/1Wb0zvj3LZ9EcoKwpSdjETp94Xy7tmhGG/preview
-category: blog
+category: complex analysis
 tags:
-  - welcome
-  - blog
-author: mranderson
+  - complex analysis
+  - conformal mapping
+  - origami
+author: Milo Brown
 paginate: true
 ---
 In my complex analysis class, I had the incredible opportunity to relate a concept in complex analysis to an everyday application. In ten weeks of hard work and creativity, I wrote a paper relating origami to conformal mapping and received a grade of 100% on the final paper.
