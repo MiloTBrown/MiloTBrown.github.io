@@ -4,7 +4,7 @@ layout: post
 title: UCSB EEMB Research Symposium 2023
 subtitle: Relating Hyperspectral Data to Physiological Drought Response
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: (https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg) 
+image: [(https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg) ](https://res.cloudinary.com/drdsw7wbb/image/upload/v1683397769/hyperspectral_presentation_zl1k7k.jpg)
 category: life
 tags:
   - life
