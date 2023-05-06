@@ -17,6 +17,7 @@ tags:
 author: mranderson
 paginate: true
 ---
+In my complex analysis class, I had the incredible opportunity to relate a concept in complex analysis to an everyday application. In ten weeks of hard work and creativity, I wrote a paper relating origami to conformal mapping and received a grade of 100% on the final paper.
 
 ## Abstract
 
