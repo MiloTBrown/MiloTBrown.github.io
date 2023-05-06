@@ -6,7 +6,7 @@ subtitle: 'From Life to the stars'
 description: >-
   An academic research paper on applying conformal mapping to origami.
 image: >-
-  https://drive.google.com/file/d/1Wb0zvj3LZ9EcoKwpSdjETp94Xy7tmhGG/preview
+  https://res.cloudinary.com/drdsw7wbb/image/upload/v1683415009/Origami_Crane_jfvgfp.jpg
 category: complex analysis
 tags:
   - complex analysis
