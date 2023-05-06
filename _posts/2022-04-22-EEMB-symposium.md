@@ -12,7 +12,7 @@ tags:
   - ecology
   - spectroscopy
   - plant physiology
-author: Milo Brown
+author: milo_brown
 ---
 The UCSB EEMB research symposium showcases undergraduate research in ecology, evolution, and marine biology conducted at UC Santa Barbara. The event occured on April 22, 2023 from 9AM to 5:30PM. Here, I presented some preliminary research on leaf-level spectral analysis of drought adaptations in local populations. My mentors for this project include Indra Boving from the Anderegg Plant Physiology Lab and Jean Allen from the Trugman Geography Lab.
 
