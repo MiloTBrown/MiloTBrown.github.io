@@ -7,7 +7,6 @@ position: UCSB Physics Undergraduate
 bio: Insert Bio
 github_username: MiloTBrown
 instagram_username: gunpowder_milo
-linkedin_username: Milo Brown
-medium_username: medium_username
+linkedin_username: https://www.linkedin.com/in/milo-brown/
 ---
 
