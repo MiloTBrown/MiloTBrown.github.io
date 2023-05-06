@@ -7,9 +7,10 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
 image: https://res.cloudinary.com/drdsw7wbb/image/upload/v1683397769/hyperspectral_presentation_zl1k7k.jpg
 category: life
 tags:
-  - life
-  - tips
-author: mranderson
+  - research
+  - remote sensing
+  - ecology
+author: Milo Brown
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
