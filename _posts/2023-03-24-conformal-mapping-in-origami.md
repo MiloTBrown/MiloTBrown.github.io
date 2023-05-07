@@ -1,5 +1,5 @@
 ---
-date: 2023-05-06T12:00:00.000Z
+date: 2023-03-24T12:00:00.000Z
 layout: post
 title: Conformal Mapping in Origami
 subtitle: 'From Life to the stars'
