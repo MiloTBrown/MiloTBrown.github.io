@@ -4,7 +4,7 @@ photo: https://res.cloudinary.com/drdsw7wbb/image/upload/v1683415297/Profile_Pic
 name: milo_brown
 display_name: Milo Brown
 position: UCSB Physics Undergraduate
-bio: Insert Bio
+bio: Milo Brown is pursuing a B.S. in Physics at UCSB. When not in class, they can be found in Dr. Blumenthal's OCPI lab and Dr. Anderegg's LEAF lab, researching photonics and plant physiology.
 github_username: MiloTBrown
 instagram_username: gunpowder_milo
 linkedin_username: milo-brown
