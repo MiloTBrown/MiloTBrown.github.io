@@ -3,7 +3,7 @@ date: 2021-09-24 17:00:00
 layout: post
 title: Caltech WAVE Research Fellowship
 subtitle: X-Ray Bright Versus Faint Active Galactic Nuclei (AGN)
-description: I used the structure function to compare AGN variability at Caltech for 10 weeks!
+description: I used the structure function to compare optical variability of x-ray bright versus faint supermassive black holes at Caltech for 10 weeks!
 image: https://res.cloudinary.com/drdsw7wbb/image/upload/v1683488660/Caltech_Bear_i6s9jg.jpg
 category: research
 tags:
