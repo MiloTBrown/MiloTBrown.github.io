@@ -40,8 +40,9 @@ I plan to analyze spectral pressure volume data from local species with differen
 
 I would like to thank Jean Allen and Indra Boving for their wonderful support and mentorship. I would also like to thank Evan Margiotta from the UCSB Geography Department for agreeing to help as a mentor for this project going forward, especially during the summer of 2023. Additional thanks to Dr. Leander Anderegg and Dr. Anna Trugman for supporting the development of this project in countless ways, and to Dr. Dar Roberts for mentoring Jean Allen. I would also like to thank the Schmidt Family for supporting this project financially through the Schmidt Environmental Solutions Summer Research Mentorship Award during the summer of 2023. 
 
+## Presentation
 
-
+The reviewing graduate students agreed that my strongest points included content, interactions, and grammar/mechanics, while my weakest point was conceptual organization. Going forward, I can improve the organization of my presentations by receiving feedback during planning stages. I connected well with the audience by using the entire space, making eye contact, and using props (e.g., a large leaf) to illustrate key points. Below are the slides I used in my 8 minute presentation. 
 
 <iframe src="https://drive.google.com/file/d/1ZNcXp4_IMN4iC4UbTkvj9CKGn-G9Ec9Y/preview" width="640" height="480" allow="autoplay"></iframe>
 
