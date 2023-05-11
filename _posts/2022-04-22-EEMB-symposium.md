@@ -28,6 +28,10 @@ The pressure volume measurements quantify the relationship between leaf water co
 
 Our preliminary results from the Holly Oak outline a promising direction for this project. The data matches the theoretical expectations of a linear relationship between water absorbtion feature thickness and water content and a non-linear relationship between spectral features and water potential. This allows us to define the impact of water loss via spectroscopic measurements; a key step in relating drought stress to hyperspectral data.
 
+## Discussion
+
+Although this work is a foundational step towards relating drought stress to hyperspectral data, relating leaf-level spectra to physiological drought stress provides only one piece of the puzzle. Canopy level spectroscopy provides additional challenges because multiple layers of leaves complicate the spectral data. We plan to connect our data to canopy level spectroscopy when we analyze our data. Many researchers, including my mentors in the geography department, are working towards bridging the gap between leaf-level and canopy-level spectroscopy. 
+
 ## Next Steps
 
 I plan to analyze spectral pressure volume data from local species with different levels of drought adaptation. Our target species include the riperian frémont cottonwood, coastal live oak, some species of citrus, either river redgum or eucalyptus globulus, and potentially blue oak from sedgewick. 
