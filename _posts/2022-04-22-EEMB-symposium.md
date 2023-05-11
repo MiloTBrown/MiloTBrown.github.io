@@ -14,11 +14,17 @@ tags:
   - plant physiology
 author: milo_brown
 ---
-The UCSB EEMB research symposium showcases undergraduate research in ecology, evolution, and marine biology conducted at UC Santa Barbara. The event occured on April 22, 2023 from 9AM to 5:30PM. Here, I presented some preliminary research on leaf-level spectral analysis of drought adaptations in local populations. My mentors for this project include Indra Boving from the Anderegg Plant Physiology Lab and Jean Allen from the Trugman Geography Lab.
+The UCSB EEMB research symposium showcases undergraduate research in ecology, evolution, and marine biology conducted at UC Santa Barbara. The event occured on April 22, 2023 from 9AM to 5:30PM. Here, I presented some preliminary research on leaf-level spectral analysis of drought adaptations in local populations. My mentors for this project include Indra Boving from the Anderegg Plant Physiology Lab and Jean Allen from the Trugman Geography Lab and the <a href="https://sites.google.com/site/ucsbviperlab/">UCSB VIPER Lab </a>.
+
+
 
 ## Abstract
 
 Hyperspectral remote sensing data has the potential to expand our understanding of ecosystem function and processes, such as drought response in California’s forested ecosystems. However, efforts to bridge established ecological fieldwork for understanding drought response and hyperspectral data products are still in progress. This project relates leaf-level hyperspectral measurements to physiological drought response using newly-developed <em>spectral pressure-volume curves</em>. In plant physiology, pressure-volume measurements are a physiological technique used to understand drought stress by quantifying the relationship between leaf water content and water potential. Leaf-level spectroscopy, meanwhile, allows us to observe characteristics of water content: an object will reflect, absorb, and transmit light differently at different wavelengths depending on its composite materials and structure, and water inside leaves appears as water absorption features in the near infrared. These features scale depending on the water content of the leaf. Here, we relate these water absorption features to pressure-volume curves by taking co-occuring measurements of water potential, water content, and leaf spectra.  This study compares spectral pressure-volume curves of leaves from local tree species to determine spectral sensitivity to changes in water content across different species and to develop a spectrally-based understanding of tree-level drought response. Our goal is to relate water content to water potential and turgor loss point (an important physiological drought-response trait) across multiple species, providing leaf-level data from which to scale up to landscape level measures of drought response.
+
+## Process
+
+
 
 
 
