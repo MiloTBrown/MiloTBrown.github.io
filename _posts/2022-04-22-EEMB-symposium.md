@@ -24,6 +24,17 @@ Hyperspectral remote sensing data has the potential to expand our understanding 
 
 The pressure volume measurements quantify the relationship between leaf water content and water potential. We measured the change in water potential for a drying leaf using a water potential pressure chamber over the course of several hours. At the same time, we measured mass using a precise scale and spectral index using the ASD FieldSpec spectrometer. We used the spectral data to compare the thickness of the spectral water absorbtion features at different water content and water potential values. These coincident measurements allow us to compare water potential with spectral features, with the goal of simplifying the intensive water potential measurement process using remote sensing.
 
+## Preliminary Results
+
+Our preliminary results from the Holly Oak outline a promising direction for this project. The data matches the theoretical expectations of a linear relationship between water absorbtion feature thickness and water content and a non-linear relationship between spectral features and water potential. This allows us to define the impact of water loss via spectroscopic measurements; a key step in relating drought stress to hyperspectral data.
+
+## Next Steps
+
+I plan to analyze spectral pressure volume data from local species with different levels of drought adaptation. Our target species include the riperian frémont cottonwood, coastal live oak, some species of citrus, either river redgum or eucalyptus globulus, and potentially blue oak from sedgewick. 
+
+## Acknowledgements
+
+I would like to thank Jean Allen and Indra Boving for their wonderful support and mentorship. I would also like to thank Evan Margiotta from the UCSB Geography Department for agreeing to help as a mentor for this project going forward, especially during the summer of 2023. Additional thanks to Dr. Leander Anderegg and Dr. Anna Trugman for supporting the development of this project in countless ways, and to Dr. Dar Roberts for mentoring Jean Allen. I would also like to thank the Schmidt Family for supporting this project financially through the Schmidt Environmental Solutions Summer Research Mentorship Award during the summer of 2023. 
 
 
 
