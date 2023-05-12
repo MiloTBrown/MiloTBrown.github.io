@@ -12,6 +12,7 @@ tags:
   - complex analysis
   - conformal mapping
   - origami
+  - coursework
 author: milo_brown
 paginate: true
 ---
