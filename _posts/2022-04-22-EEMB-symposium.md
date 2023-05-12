@@ -14,7 +14,9 @@ tags:
   - plant physiology
 author: milo_brown
 ---
-The UCSB EEMB research symposium showcases undergraduate research in ecology, evolution, and marine biology conducted at UC Santa Barbara. The event occured on April 22, 2023 from 9AM to 5:30PM. Here, I presented some preliminary research on leaf-level spectral analysis of drought adaptations in local populations. My mentors for this project include Indra Boving from the <a href="https://anderegglab.eemb.ucsb.edu/">Anderegg Landscape Physiology Lab</a> and Jean Allen from the <a href="http://trugmanlab.geog.ucsb.edu/">Trugman Geography Lab</a> and the <a href="https://sites.google.com/site/ucsbviperlab/">UCSB VIPER Lab</a>.
+The UCSB EEMB research symposium showcases undergraduate research in ecology, evolution, and marine biology conducted at UC Santa Barbara. The event occured on April 22, 2023 from 9AM to 6PM. Here, I presented some preliminary research on leaf-level spectral analysis of drought adaptations in local populations. My mentors for this project include Indra Boving from the <a href="https://anderegglab.eemb.ucsb.edu/">Anderegg Landscape Physiology Lab</a> and Jean Allen from the <a href="http://trugmanlab.geog.ucsb.edu/">Trugman Geography Lab</a> and the <a href="https://sites.google.com/site/ucsbviperlab/">UCSB VIPER Lab</a>.
+
+With nearly 50 undergraduate presenters, the EEMB Undergraduate Research Symposium was a bustling success! Every presenter did extremely well, and many of us walked away with not only an improved understanding of the active Ecology research at UCSB, but also new friends.
 
 ## Abstract
 
