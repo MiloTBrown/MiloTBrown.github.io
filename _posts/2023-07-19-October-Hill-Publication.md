@@ -13,4 +13,4 @@ tags:
 author: milo_brown
 ---
 
-Here is some text!
+I created the painting "Vacant for the Dead" to demonstrate that even a somber place such as a graveyard alone can be full of life and community. The warm tones of this painting demonstrate how our loved ones who leave us can live in our hearts and memories.
