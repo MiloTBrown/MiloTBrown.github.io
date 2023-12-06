@@ -2,8 +2,8 @@
 date: 2023-07-21 17:00:00
 layout: post
 title: Quantum Optics Cryostat at Leiden University
-subtitle: A Physicists’ Guide to Becoming Very Cool
-description: 
+subtitle: The coolest article ever!
+description: A description of the cooling apparatus I encountered during my research at Leiden University
 image: https://res.cloudinary.com/drdsw7wbb/image/upload/v1701898587/Cryostat_Leiden_dn9pcv.jpg
 category: research
 tags:
